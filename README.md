@@ -5,10 +5,10 @@
 ### [arch.e.mantra](https://yj-kim-00.github.io/arch.e.mantra/aem.html)
 
 arch.e.matra의 의미
-```
+
 arech.e는 archtecture engineering을 축약한 것으로 건축 공학을 의미하고, 나의 전공을 나타내면서 내 진로의 주된 정체성을 잡으려고 합니다.
 mantra는 요가를 할 때 사용하는 언어로, 혼란스러운 감정을 다잡기 위한 나의 인생 모토입니다.
-```
+
 
 페이지가 궁금하다면, [arch.e.mantra](https://yj-kim-00.github.io/arch.e.mantra/aem.html)
 
